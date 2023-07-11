@@ -14,5 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mbadr2200&icon=5&color=3)](https://visitcount.itsvg.in)
-
+[](https://github-readme-stats-sigma-ivory-92.vercel.app/api/top-langs/?username=mbadr2200&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
