@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
   ![](https://github-readme-stats-sigma-ivory-92.vercel.app/api?username=mbadr2200&theme=tokyonight&hide_border=false&include_all_commits=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mbadr2200&theme=tokyonight&hide_border=false&mode=weekly)<br/>
-![](https://github-readme-stats-sigma-ivory-92.vercel.app/api/top-langs/?username=mbadr2200&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-ivory-92.vercel.app/api/top-langs/?username=mbadr2200&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-gules.vercel.app/?username=mbadr2200&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
